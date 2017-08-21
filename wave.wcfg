@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="U:/Instruction Pipeline/TEST2_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="TEST2" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/TEST2/PC" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">PC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00ffff</obj_property>
+   </wvobject>
+   <wvobject fp_name="vbus338" type="vbus" db_ref_id="1">
+      <obj_property name="label">IDPC</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00ffff</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <wvobject fp_name="/TEST2/IF_ID[63]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[63]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[63]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[62]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[62]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[62]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[61]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[61]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[61]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[60]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[60]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[60]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[59]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[59]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[59]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[58]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[58]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[58]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[57]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[57]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[57]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[56]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[56]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[56]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[55]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[55]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[55]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[54]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[54]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[54]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[53]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[53]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[53]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[52]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[52]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[52]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[51]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[51]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[51]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[50]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[50]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[50]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[49]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[49]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[49]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[48]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[48]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[48]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[47]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[47]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[47]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[46]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[46]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[46]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[45]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[45]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[45]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[44]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[44]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[44]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[43]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[43]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[43]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[42]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[42]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[42]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[41]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[41]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[41]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[40]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[40]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[40]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[39]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[39]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[39]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[38]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[38]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[38]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[37]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[37]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[37]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[36]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[36]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[36]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[35]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[35]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[35]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[34]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[34]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[34]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[33]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[33]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[33]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[32]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[32]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[32]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="vbus669" type="vbus" db_ref_id="1">
+      <obj_property name="label">IDEDPX</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00ffff</obj_property>
+      <wvobject fp_name="/TEST2/ID_EX[31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[31]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[30]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[29]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[28]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[27]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[26]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[25]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[24]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[23]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[22]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[21]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[20]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[19]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[18]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[17]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[16]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[15]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[14]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[13]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[12]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[11]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[10]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="vbus399" type="vbus" db_ref_id="1">
+      <obj_property name="label">EXWBPC</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00ffff</obj_property>
+      <wvobject fp_name="/TEST2/EX_WB[63]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[63]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[63]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[62]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[62]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[62]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[61]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[61]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[61]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[60]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[60]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[60]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[59]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[59]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[59]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[58]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[58]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[58]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[57]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[57]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[57]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[56]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[56]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[56]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[55]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[55]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[55]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[54]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[54]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[54]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[53]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[53]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[53]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[52]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[52]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[52]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[51]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[51]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[51]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[50]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[50]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[50]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[49]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[49]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[49]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[48]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[48]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[48]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[47]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[47]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[47]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[46]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[46]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[46]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[45]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[45]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[45]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[44]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[44]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[44]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[43]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[43]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[43]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[42]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[42]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[42]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[41]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[41]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[41]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[40]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[40]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[40]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[39]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[39]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[39]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[38]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[38]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[38]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[37]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[37]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[37]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[36]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[36]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[36]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[35]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[35]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[35]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[34]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[34]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[34]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[33]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[33]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[33]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[32]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[32]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[32]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="vbus380" type="vbus" db_ref_id="1">
+      <obj_property name="label">IFIDCONTROL</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+      <wvobject fp_name="/TEST2/IF_ID[31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[31]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[30]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[29]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[28]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[27]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[26]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[26]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="vbus309" type="vbus" db_ref_id="1">
+      <obj_property name="label">OPCODE(EX)</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <wvobject fp_name="/TEST2/ID_EX[117]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[117]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[117]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[116]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[116]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[116]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[115]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[115]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[115]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[114]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[114]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[114]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[113]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[113]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[113]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[112]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[112]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[112]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="vbus631" type="vbus" db_ref_id="1">
+      <obj_property name="label">RS</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffa500</obj_property>
+      <wvobject fp_name="/TEST2/ID_EX[63]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[63]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[63]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[62]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[62]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[62]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[61]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[61]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[61]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[60]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[60]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[60]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[59]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[59]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[59]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[58]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[58]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[58]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[57]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[57]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[57]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[56]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[56]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[56]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[55]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[55]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[55]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[54]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[54]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[54]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[53]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[53]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[53]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[52]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[52]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[52]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[51]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[51]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[51]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[50]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[50]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[50]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[49]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[49]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[49]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[48]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[48]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[48]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[47]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[47]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[47]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[46]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[46]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[46]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[45]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[45]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[45]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[44]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[44]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[44]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[43]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[43]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[43]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[42]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[42]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[42]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[41]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[41]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[41]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[40]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[40]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[40]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[39]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[39]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[39]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[38]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[38]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[38]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[37]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[37]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[37]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[36]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[36]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[36]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[35]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[35]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[35]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[34]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[34]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[34]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[33]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[33]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[33]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[32]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[32]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[32]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="vbus697" type="vbus" db_ref_id="1">
+      <obj_property name="label">RT</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff00ff</obj_property>
+      <wvobject fp_name="vbus664" type="vbus" db_ref_id="1">
+         <obj_property name="label">RT</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <wvobject fp_name="/TEST2/ID_EX[95]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[95]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[95]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[94]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[94]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[94]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[93]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[93]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[93]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[92]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[92]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[92]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[91]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[91]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[91]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[90]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[90]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[90]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[89]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[89]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[89]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[88]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[88]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[88]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[87]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[87]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[87]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[86]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[86]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[86]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[85]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[85]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[85]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[84]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[84]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[84]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[83]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[83]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[83]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[82]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[82]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[82]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[81]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[81]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[81]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[80]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[80]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[80]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[79]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[79]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[79]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[78]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[78]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[78]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[77]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[77]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[77]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[76]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[76]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[76]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[75]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[75]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[75]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[74]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[74]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[74]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[73]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[73]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[73]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[72]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[72]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[72]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[71]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[71]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[71]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[70]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[70]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[70]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[69]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[69]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[69]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[68]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[68]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[68]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[67]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[67]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[67]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[66]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[66]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[66]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[65]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[65]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[65]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/TEST2/ID_EX[64]" type="logic" db_ref_id="1">
+            <obj_property name="ElementShortName">[64]</obj_property>
+            <obj_property name="ObjectShortName">ID_EX[64]</obj_property>
+         </wvobject>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="vbus572" type="vbus" db_ref_id="1">
+      <obj_property name="label">ALUOUT</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <wvobject fp_name="/TEST2/EX_WB[31]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[31]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[31]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[30]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[30]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[30]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[29]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[29]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[29]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[28]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[28]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[28]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[27]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[27]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[27]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[26]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[26]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[26]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[25]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[25]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[25]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[24]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[24]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[24]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[23]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[23]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[23]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[22]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[22]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[22]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[21]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[21]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[21]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[20]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[20]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[20]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[19]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[19]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[19]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[18]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[18]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[18]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[17]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[17]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[17]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[16]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[16]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[16]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[15]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[14]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[13]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[12]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[11]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[11]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[10]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[10]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[10]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[9]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[9]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[9]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[8]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[8]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[8]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[7]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[7]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[7]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[6]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[6]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[5]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[5]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[4]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[4]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="vbus502" type="vbus" db_ref_id="1">
+      <obj_property name="label">RDIFID</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <wvobject fp_name="/TEST2/IF_ID[15]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[15]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[15]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[14]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[14]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[14]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[13]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[13]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[13]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[12]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[12]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[12]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/IF_ID[11]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[11]</obj_property>
+         <obj_property name="ObjectShortName">IF_ID[11]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="vbus432" type="vbus" db_ref_id="1">
+      <obj_property name="label">RD EXWB</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <wvobject fp_name="/TEST2/EX_WB[71]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[71]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[71]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[70]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[70]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[70]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[69]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[69]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[69]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[68]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[68]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[68]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/EX_WB[67]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[67]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[67]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/TEST2/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST2/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="vbus388" type="vbus" db_ref_id="1">
+      <obj_property name="label">WRITEBACK FLAG</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/TEST2/EX_WB[66]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[66]</obj_property>
+         <obj_property name="ObjectShortName">EX_WB[66]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="vbus354" type="vbus" db_ref_id="1">
+      <obj_property name="label">IDEXLOADIMMEDIATE</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <wvobject fp_name="/TEST2/ID_EX[143]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[143]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[143]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[142]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[142]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[142]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[141]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[141]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[141]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[140]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[140]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[140]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[139]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[139]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[139]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[138]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[138]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[138]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[137]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[137]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[137]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[136]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[136]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[136]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[135]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[135]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[135]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[134]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[134]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[134]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[133]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[133]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[133]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[132]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[132]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[132]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[131]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[131]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[131]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[130]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[130]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[130]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[129]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[129]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[129]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TEST2/ID_EX[128]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[128]</obj_property>
+         <obj_property name="ObjectShortName">ID_EX[128]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/TEST2/u1/DATA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DATA[31:0,31:0]</obj_property>
+      <obj_property name="ObjectShortName">DATA[31:0,31:0]</obj_property>
+   </wvobject>
+</wave_config>

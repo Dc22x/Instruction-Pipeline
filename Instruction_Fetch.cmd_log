@@ -1,0 +1,160 @@
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 
+xst -intstyle ise -ifn "U:/WHYYYYY/Instruction_Fetch.xst" -ofn "U:/WHYYYYY/Instruction_Fetch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45-csg324-2 Instruction_Fetch.ngc Instruction_Fetch.ngd  
+map -intstyle ise -p xc6slx45-csg324-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Instruction_Fetch_map.ncd Instruction_Fetch.ngd Instruction_Fetch.pcf 
+par -w -intstyle ise -ol high -mt off Instruction_Fetch_map.ncd Instruction_Fetch.ncd Instruction_Fetch.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Instruction_Fetch.twx Instruction_Fetch.ncd -o Instruction_Fetch.twr Instruction_Fetch.pcf 

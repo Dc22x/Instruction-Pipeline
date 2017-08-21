@@ -1,0 +1,5 @@
+verilog work "Instruction_Fetch.v"
+verilog work "Decoder.v"
+verilog work "ALU.v"
+verilog work "TEST2.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

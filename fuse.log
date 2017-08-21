@@ -1,0 +1,24 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o U:/Instruction Pipeline/TEST2_isim_beh.exe -prj U:/Instruction Pipeline/TEST2_beh.prj work.TEST2 work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "U:/Instruction Pipeline/Instruction_Fetch.v" into library work
+Analyzing Verilog file "U:/Instruction Pipeline/Decoder.v" into library work
+Analyzing Verilog file "U:/Instruction Pipeline/ALU.v" into library work
+Analyzing Verilog file "U:/Instruction Pipeline/TEST2.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "U:/Instruction Pipeline/TEST2.v" Line 44: Size mismatch in connection of port <EX_WB>. Formal port size is 100-bit while actual signal size is 64-bit.
+Completed static elaboration
+Compiling module Instruction_Fetch
+Compiling module Decoder
+Compiling module Execution
+Compiling module TEST2
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 Verilog Units
+Built simulation executable U:/Instruction Pipeline/TEST2_isim_beh.exe
+Fuse Memory Usage: 29744 KB
+Fuse CPU Usage: 389 ms

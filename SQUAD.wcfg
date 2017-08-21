@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="U:/WHYYYYY/TEST2_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="TEST2" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/TEST2/PC" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">PC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST2/IF_ID" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">IF_ID[63:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_ID[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST2/ID_EX" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ID_EX[159:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX[159:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST2/EX_WB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">EX_WB[63:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_WB[63:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST2/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TEST2/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+</wave_config>
